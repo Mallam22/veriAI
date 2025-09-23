@@ -1,0 +1,10 @@
+{
+  "id": "did:a2a:mallam22:web3social",
+  "name": "Web3 Social Agent",
+  "version": "1.0.0",
+  "description": "Web3 Social Agent — community-first Verisense A2A agent that bridges on-chain signals and social engagement. Provides moderation tools, announcements, on-chain alerts, and community analytics for Alt/Verisense communities.",
+  "endpoint": "https://mallam22.github.io/veriAI/.well-known/agent.json",
+  "publicKey": "",
+  "protocols": ["a2a"],
+  "tags": ["web3", "social", "ai-agent", "altde"]
+}
